@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "brightbite-dental",
+  "compatibility_date": "2026-06-28",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "dental-store"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
